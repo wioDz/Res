@@ -1,0 +1,11 @@
+C:\Users\chunh\source\repos\resSumApp\resSumApp\bin\Debug\resSumApp.exe.config
+C:\Users\chunh\source\repos\resSumApp\resSumApp\bin\Debug\resSumApp.exe
+C:\Users\chunh\source\repos\resSumApp\resSumApp\bin\Debug\resSumApp.pdb
+C:\Users\chunh\source\repos\resSumApp\resSumApp\obj\Debug\resSumApp.csproj.AssemblyReference.cache
+C:\Users\chunh\source\repos\resSumApp\resSumApp\obj\Debug\resSumApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\chunh\source\repos\resSumApp\resSumApp\obj\Debug\resSumApp.Form1.resources
+C:\Users\chunh\source\repos\resSumApp\resSumApp\obj\Debug\resSumApp.Properties.Resources.resources
+C:\Users\chunh\source\repos\resSumApp\resSumApp\obj\Debug\resSumApp.csproj.GenerateResource.cache
+C:\Users\chunh\source\repos\resSumApp\resSumApp\obj\Debug\resSumApp.csproj.CoreCompileInputs.cache
+C:\Users\chunh\source\repos\resSumApp\resSumApp\obj\Debug\resSumApp.exe
+C:\Users\chunh\source\repos\resSumApp\resSumApp\obj\Debug\resSumApp.pdb
